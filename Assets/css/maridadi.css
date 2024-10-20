@@ -1,0 +1,36 @@
+.perl{
+    background-color: red;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+.fruits{
+    background-color: blue;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+
+.Car{
+    background-color: red;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+.Clothes{
+    background-color: blue;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+#wanafunzi{
+    background-color: #9f9fcc;
+}
